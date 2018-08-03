@@ -1,0 +1,1 @@
+sbt ";project app2;~run -Dhttp.port=9002"
